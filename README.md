@@ -78,13 +78,13 @@
 ### Github Stats:
 
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abu-rifat&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abu-rifat&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-bangladesh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-bangladesh&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ### CP Progress:
 
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/aburifat?theme=light&font=Karma&ext=contest" />
+<img height="273em" src="https://leetcard.jacoblin.cool/mr_bangladesh?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/abu-rifat/cf-stats/main/output/light_card.svg" />
 </p>

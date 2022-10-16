@@ -35,14 +35,16 @@
 
 ### Profiles:
 <p align="left">
-<a href="https://codeforces.com/profile/ARMaster/" target="blank"><img align="center" src="src/images/cp-logo/codeforces.png" alt="ARMaster" height="50" width="50" /></a>
-  <a href="https://leetcode.com/aburifat/" target="blank"><img align="center" src="src/images/cp-logo/leetcode.png" alt="aburifat" height="50" width="50" /></a>
-  <a href="https://codechef.com/users/aburifat/" target="blank"><img align="center" src="src/images/cp-logo/codechef.png" alt="aburifat" height="50" width="50" /></a>
-  <a href="https://lightoj.com/user/abu-rifat/" target="blank"><img align="center" src="src/images/cp-logo/lightoj.png" alt="abu-rifat" height="50" width="50" /></a>
-  <a href="https://www.hackerrank.com/aburifat/" target="blank"><img align="center" src="src/images/cp-logo/hackerrank.png" alt="aburifat" height="50" width="50" /></a>
-  <a href="https://atcoder.jp/users/aburifat/" target="blank"><img align="center" src="src/images/cp-logo/atcoder.png" alt="aburifat" height="50" width="50" /></a>
-  <a href="https://spoj.com/users/abu_rifat/" target="blank"><img align="center" src="src/images/cp-logo/spoj.jpeg" alt="abu_rifat" height="50" width="50" /></a>
-  <a href="https://uhunt.onlinejudge.org/id/889274/" target="blank"><img align="center" src="src/images/cp-logo/uvaoj.png" alt="https://uhunt.onlinejudge.org/id/889274/" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/Mr_Bangladesh/" target="blank"><img align="center" src="src/images/cp-logo/codeforces.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://leetcode.com/Mr_Bangladesh/" target="blank"><img align="center" src="src/images/cp-logo/leetcode.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://codechef.com/users/faizul_bu/" target="blank"><img align="center" src="src/images/cp-logo/codechef.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://lightoj.com/user/Mr_Bangladesh/" target="blank"><img align="center" src="src/images/cp-logo/lightoj.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://www.hackerrank.com/Mr_Bangladesh/" target="blank"><img align="center" src="src/images/cp-logo/hackerrank.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://atcoder.jp/users/Mr_Bangladesh/" target="blank"><img align="center" src="src/images/cp-logo/atcoder.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://spoj.com/users/mr_bangladesh/" target="blank"><img align="center" src="src/images/cp-logo/spoj.jpeg" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://uhunt.onlinejudge.org/id/894114/" target="blank"><img align="center" src="src/images/cp-logo/uvaoj.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://toph.co/u/Mr_Bangladesh" target="blank"><img align="center" src="src/images/cp-logo/toph.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
+  <a href="https://cses.fi/user/46166" target="blank"><img align="center" src="src/images/cp-logo/cses.png" alt="Mr_Bangladesh" height="50" width="50" /></a>
 </p>
 
 
